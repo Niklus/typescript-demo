@@ -7,17 +7,23 @@
       content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
     />
     <title>Demo</title>
-    <!--The library-->
+    <!--The library -->
     <script
       type="module"
       src="https://unpkg.com/type-script-webcomponent@0.0.2/dist/type-script-component/type-script-component.esm.js"
     ></script>
+
+    <!--If you prefer with node-modules: run npm install. Delete the script above and uncomment the script below-->
+    <!--<script
+      type="module"
+      src="node_modules/type-script-webcomponent/dist/type-script-component/type-script-component.esm.js"
+    ></script>-->
   </head>
   <body>
-    <!--One type-script tag per page-->
+    <!--One type-script tag per page: Separate src links with a comma-->
     <type-script
-      minify="true"
-      src="app1.ts, app2.ts, app3.ts, app4.ts"
+      minify="false"
+      src="ts/app1.ts, ts/app2.ts, ts/app3.ts, ts/app4.ts"
     ></type-script>
   </body>
 </html>
