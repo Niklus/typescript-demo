@@ -6,4 +6,4 @@ Typscript demo for the npm library type-script-webcomponent that allows you to r
 
 Look at the index.html file to learn more, then open up devtools and look at the typescript tag to see the injected Javascript.
 
-Get the library [here](https://www.npmjs.com/package/type-script-webcomponent) on npm.
+Get the library [here](https://www.npmjs.com/package/type-script-webcomponent) on npm. Get the 0.0.5 version - It's much faster than the previous ones.
