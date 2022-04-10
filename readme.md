@@ -1,7 +1,9 @@
 # Typescript Demo
 
-Typscript demo for the npm library [type-script-webcomponent](https://www.npmjs.com/package/type-script-webcomponent)
+Typscript demo for the npm library type-script-webcomponent that allows you to run typescript in the browser. 
 
-[Live Demo](https://niklus.github.io/typescript-demo/)
+[Live Demo ⚡️](https://niklus.github.io/typescript-demo/)
 
-Open up devtools then open the typescript tag to see the injected Javascript.
+Loook at the index.html file to learn more, then open up devtools and look at the typescript tag to see the injected Javascript.
+
+Get the library [here](https://www.npmjs.com/package/type-script-webcomponent) on npm.
