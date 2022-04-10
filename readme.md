@@ -4,4 +4,4 @@ Typscript demo for the npm library [type-script-webcomponent](https://www.npmjs.
 
 [Live Demo](https://niklus.github.io/typescript-demo/)
 
-Open up devtools then open that tag <typescript></typescript> to see the injected Javascript.
+Open up devtools then open the typescript tag to see the injected Javascript.
