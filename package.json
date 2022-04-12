@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/Niklus/typescript-demo#readme",
   "dependencies": {
-    "type-script-webcomponent": "^0.0.6"
+    "type-script-webcomponent": "^0.0.7"
   }
 }
