@@ -14,9 +14,9 @@ If you get an error, try running your code without setting minify to true as sho
 
 I'm still searching for a good es6+ compliant minification tool that works in the browser.
 
-I have also noticed, that the component is faster when downloaded through npm - as you dont make many network requests.
+I have also noticed, that the component is faster when downloaded locally => npm i type-script-webcomponent.
 
-Test this your self by using the following script - after running npm install.  
+Test this yourself by using the following script - after running npm install.  
 
 ```html
 <script type="module" src="node_modules/type-script-webcomponent/dist/type-script-component/type-script-component.esm.js"></script>
