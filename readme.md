@@ -14,4 +14,4 @@ If you get an error, try running your code without setting minify to true as sho
 
 I'm still searching for a good es6+ compliant minification tool that works in the browser.
 
-Get the library [here](https://www.npmjs.com/package/type-script-webcomponent) on npm. Get the latest version 0.0.6 - It's much faster than the previous ones.
+Get the library [here](https://www.npmjs.com/package/type-script-webcomponent) on npm. Get the latest version 0.0.7 - It's much faster than the previous ones.
